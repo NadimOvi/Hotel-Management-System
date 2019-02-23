@@ -1,0 +1,35 @@
+.h{
+	background-color: black;
+	padding: 10px;
+	border: 2px solid black;
+}
+
+#d{
+	height: 500px;
+	width: 400px;
+	background: grey;
+	border: 3px solid black;
+	border-radius: 25px;
+	margin: auto;
+}
+
+
+#form{
+	color: black;
+	margin: 5px;
+	text-align: center;
+	padding: 3px;
+	height: 30px;
+	width: 380px;
+
+}
+
+#button{
+	margin: 5px;
+	text-align: center;
+	padding: 2px;
+	height: 30px;
+	width: 380px;
+	background: pink;
+	border-radius: 25px;
+}
